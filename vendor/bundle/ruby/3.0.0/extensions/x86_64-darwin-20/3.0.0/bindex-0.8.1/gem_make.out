@@ -1,0 +1,15 @@
+current directory: /Users/hiro/proj/monologue1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/hiro/.rbenv/versions/3.0.0/bin/ruby -I /Users/hiro/.rbenv/versions/3.0.0/lib/ruby/3.0.0 -r ./siteconf20210414-13079-xf9c3b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiro/proj/monologue1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/hiro/proj/monologue1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/hiro/proj/monologue1/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210414-13079-1kyfun/skiptrace/internal
